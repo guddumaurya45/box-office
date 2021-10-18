@@ -57,7 +57,7 @@ const Home = () => {
       />
       <div>
         <label htmlFor="shows-search">
-          shows
+          Shows
           <input
             id="shows-search"
             type="radio"
